@@ -1,4 +1,7 @@
 # PeakPulse
+## Try it out!
+Live demo is available here: [https://peakpulse-598464211339.us-west2.run.app](https://peakpulse-598464211339.us-west2.run.app)
+
 
 An energy mapping system that visualizes your weekly performance heatmap to identify peak productivity windows.
 
