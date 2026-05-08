@@ -1,0 +1,6 @@
+{
+  "name": "PeakPulse",
+  "description": "A productivity mood tracker that visualizes your energy levels throughout the week in a GitHub-style grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
